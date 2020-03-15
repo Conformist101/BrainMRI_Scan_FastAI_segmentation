@@ -13,3 +13,6 @@
 <p><img src="https://www.kaggleusercontent.com/kf/30060909/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..gDlZm4yX1EpLE6DfA3f5pw.or7Dl0WxpHxT2c06B3wlw5z6e5iHgP5VnjSOzJWgbU35WC_MOEnrf86INSThf0yPPPwUFtyfIjgcVwTqIq_6psvC4Uzds6hFXWfAv9-YYcUBE_qoRbpQJCd7_ZS7u-k-SzP6WFTTI1KPdKWvuKNCriENmq_VZoToky5N8PMPzjyUmDOtL3V1ySI--InGGy31.Ruvn5dd7EiVmVIySmVGW6A/__results___files/__results___25_1.png" alt="" width="312" height="518" /></p>
 <p>&nbsp;</p>
 <h4 id="This-U-Net-will-sit-on-top-of-an-encoder-(that-can-be-a-pretrained-model)-and-with-a-final-output-of-n_classes.-During-the-initialization,-it-uses-Hooks-to-determine-the-intermediate-features-sizes-by-passing-a-dummy-input-through-the-model-and-create-the-upward-path-automatically.">&nbsp;</h4>
+
+### Dataset : https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation (by :Mateusz Buda)
+
